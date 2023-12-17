@@ -14,7 +14,7 @@
 //() ->Function definiation ()->function execution
 //()()
 // 2 IIFE fails becuase of missing ; in first IIFE
-// missing scope of first IIFE
+// missing scope of first IIFE2
 ( (name1) => {
     console.log(`DB CONNECTED TWO ${name1}`);
 })('Lal')
