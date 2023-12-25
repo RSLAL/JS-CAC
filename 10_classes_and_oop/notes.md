@@ -6,6 +6,8 @@
 
 - collection of properties and methods
 - toLowerCase, Promise
+- classes are primarily syntatic sugar over
+- existing prototype-based inheritance mechanism
 
 ## why use OOP
 
@@ -23,8 +25,4 @@ Object Literal
 Abstraction ( -hide details)
 Encapsulation ( -wrapper data )
 Interitance
-Polymorphism 
-
-
-- classes are primarily syntatic sugar over
-- existing prototype-based inheritance mechanisms
+Polymorphism
